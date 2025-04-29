@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto demonstra como integrar o Azure Data Factory (ADF) com o Azure DevOps para estabelecer um fluxo de trabalho robusto de versionamento, controle de mudanças e backups automáticos para pipelines e outros artefatos de dados. A integração entre essas duas poderosas ferramentas do Azure garante maior governança, rastreabilidade e colaboração no desenvolvimento de soluções de dados complexas.
+Este projeto, proposto pela **DIO** e feito por mim, demonstra como integrar o Azure Data Factory (ADF) com o Azure DevOps para estabelecer um fluxo de trabalho robusto de versionamento, controle de mudanças e backups automáticos para pipelines e outros artefatos de dados. A integração entre essas duas poderosas ferramentas do Azure garante maior governança, rastreabilidade e colaboração no desenvolvimento de soluções de dados complexas.
 
 Ao conectar o ADF ao Azure DevOps (utilizando repositórios Git), é possível gerenciar o ciclo de vida dos seus pipelines de dados de forma mais eficiente, similar ao desenvolvimento de software tradicional. Isso inclui a capacidade de manter um histórico detalhado de todas as alterações, reverter para versões anteriores, trabalhar em branches separados para novas funcionalidades ou correções, e implementar processos de revisão de código antes de mesclar as mudanças no ambiente principal.
 
